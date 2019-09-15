@@ -1,0 +1,15 @@
+Saturday, 10 August 2019 2:01:56 PM
+
+ZipExtractor started with following command line arguments.
+[0] C:\Users\darcypratt1971\AppData\Local\Temp\ZipExtractor.exe
+[1] C:\Users\darcypratt1971\AppData\Local\Temp\FModel.zip
+[2] C:\Program Files (x86)\Fortnite\FortniteGame\Content\Paks\FModel.exe
+
+Waiting for application process to Exit...
+BackgroundWorker started successfully.
+Found total of 2 files and folders inside the zip file.
+Extracting FModel.exe [50%]
+Extracting csharp_wick.dll [100%]
+Successfully launched the updated application.
+
+
